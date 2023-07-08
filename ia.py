@@ -1,5 +1,7 @@
 """
-The `AStarSolver` module provides a class for solving the 8-puzzle using the A* algorithm. The 8-puzzle is a sliding puzzle game where the goal is to rearrange the numbered tiles from their initial configuration to a target configuration. The A* algorithm is used to efficiently search for the optimal solution path.
+The `AStarSolver` module provides a class for solving the 8-puzzle using the A* algorithm.
+The 8-puzzle is a sliding puzzle game where the goal is to rearrange the numbered tiles from their initial configuration to a target configuration.
+The A* algorithm is used to efficiently search for the optimal solution path.
 
 Classes:
 - AStarSolver: Represents an instance of the A* solver for the 8-puzzle.

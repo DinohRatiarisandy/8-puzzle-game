@@ -1,5 +1,7 @@
 """
-The 'gameplay' module provides a Game class that manages the logic of the 8-puzzle game. It handles generating valid game boards, shuffling the tiles, moving tiles based on user input, checking for a solved state, drawing the game board on the screen, and resetting the game.
+The 'gameplay' module provides a Game class that manages the logic of the 8-puzzle game.
+It handles generating valid game boards, shuffling the tiles, moving tiles based on user input, checking for a solved state,
+drawing the game board on the screen, and resetting the game.
 
 Usage:
 - Create an instance of the Game class to start a new game.

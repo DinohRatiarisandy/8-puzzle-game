@@ -1,3 +1,4 @@
+Download it at: https://dinoh-sandys.itch.io/8-puzzle-game-with-ai
 # 8-Puzzle Game
 
 This repository contains a Python implementation of the classic 8-puzzle game using the Pygame library. The 8-puzzle is a sliding puzzle that consists of a 3x3 grid with eight numbered tiles and one blank tile. The goal of the game is to rearrange the tiles to reach a specific target configuration. <br>
